@@ -11,6 +11,7 @@ Software Enginnering Student | Passionate About AI & CyberSecurity
   <li>C/C++</li>
   <li>MySQL</li>
   <li>Linux</li>
+  <li>Git</li>
 </ul>
 
 ## 🚀 Goals
