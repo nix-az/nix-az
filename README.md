@@ -1,4 +1,4 @@
-## 👋 Hello, Nix!
+## 👋 Hello, I'm Azmar
 
 ## 🌟 About Me
 Software Enginnering Student | Passionate About AI & CyberSecurity
