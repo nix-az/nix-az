@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, I'm Nix</h1>
 
 <h3 align="center">
-🚀 First Year Software Engineering Student | Passionate About AI & CyberSecurity
+🚀 First Year Undergraduate Software Engineering Student | Passionate About AI & CyberSecurity
 </h3>
 
 ---
