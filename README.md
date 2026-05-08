@@ -7,13 +7,6 @@
 
 ---
 
-<!-- ✍️ TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast;CyberSecurity+Learner;Full-Stack+Explorer;Building+Cool+Projects" />
-</p>
-
----
-
 <!-- 🧊 PROFILE IMAGE -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5b73d075-401f-4cee-ac79-495e249ce7fa" width="600" style="border-radius:20px;" />
@@ -86,16 +79,6 @@
   </tr>
 </table>
 
-</p>
-
----
-
-## 🔥 GitHub Stats & Streak
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nix-az&show_icons=true&locale=en&layout=compact"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nix-az&show_icons=true&locale=en"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nix-az&"/>
 </p>
 
 ---
