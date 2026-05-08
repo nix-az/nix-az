@@ -30,6 +30,9 @@ Software Enginnering Student | Passionate About AI & CyberSecurity
   <li>
     LinkedIn : https://www.linkedin.com/in/azmar-hamed-577199295/
   </li>
+  <li>
+    LeetCode : https://leetcode.com/u/Azmar_/
+  </li>
 </ul>
 
 
